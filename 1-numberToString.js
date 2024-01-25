@@ -1,6 +1,6 @@
 function numberToString(num) {
   const result = num.toString();
-  return result;
+  console.log(result);
 }
 
 numberToString(67);
